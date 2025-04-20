@@ -1,5 +1,5 @@
-# Package-
-Package of homework
+# Personne-
+Personne of homework
 package dz.univeloued.tps.classes;
 
 public class Personne {
